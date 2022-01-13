@@ -27,5 +27,6 @@ Kullanıcılarımız QR kodunu okutarak veya tanımlı akıllı bilekliklerini k
 
 
 
+# WE
 /// En
 WE are developing a gamification-based mobile application and recycle bins called HeroStation that aims to reduce the plastic footprint worldwide and efficiently collect plastic waste at its source by increasing recycling awareness with pioneer partner companies and users.
