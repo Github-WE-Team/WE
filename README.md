@@ -56,4 +56,3 @@ By scanning the QR code or using their defined smart wristbands, our users throw
 <img src="https://user-images.githubusercontent.com/69001201/149393549-c88ee72a-5d72-4c4c-a5e8-8beb46250e62.png" width="479" height="345.6" />
 
 ***Stay Tuned :) - Made with ❤️ by WE Team***
-<p style="text-align: center"> ***Stay Tuned :) - Made with ❤️ by WE Team*** </p>
