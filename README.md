@@ -1,6 +1,7 @@
 # WE
 WE, öncü partner şirketler ve kullanıcıları ile Dünya’daki plastik ayak izini azaltmak ve geri dönüşüm farkındalığını artırarak kaynağında plastik atığı verimli toplamayı hedefleyen oyunlaştırma tabanlı bir mobil uygulama ve ona entegre şekilde çalışan HeroStation adında, IoT tabanlı, geri dönüşüm kutuları geliştiren bir startuptır.
 
+For [english](#we-1), keep scrolling
 
 ## WE App
 ### Cebindeki Geri Dönüşüm Partnerin!
